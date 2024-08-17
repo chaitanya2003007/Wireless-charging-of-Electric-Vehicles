@@ -15,4 +15,4 @@ to the primary coil which is implanted on the charging station. The flux is
 radiated out from the primary coil and this flux is linked with the 
 secondary coil which induces current in the secondary coil in the EV. The 
 alternating current induced in the secondary coil is converted to direct 
-current which is then used to charge the battery of the EV
+current which is then used to charge the battery of the EV.
